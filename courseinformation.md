@@ -86,6 +86,12 @@ TAs:
   * Tobias Andersen 
   * Tobias Nordholm-Højskov 
 
+Other help:
+
+  * Jakob Holst Svenningsen
+  * Lars-Bo Husted Vadgaard
+
+
 ## Lectures
 
 ### Block 1
