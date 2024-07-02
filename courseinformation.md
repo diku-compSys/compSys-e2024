@@ -76,13 +76,15 @@ Teachers:
 
 TAs:
 
- * Axel Kanne
- * Christian Franck
- * Jakob Holst Svenningsen
- * Jóhann Utne
- * Kjartan Martin Johannesen
- * Lars Peter Jeppesen
- * Lucas Haahr Yri
+  * Benjamin Daniel Nyberg Shultz 
+  * Christian Svorre Jordan 
+  * Emil Viggo Dalsgaard 
+  * Jóhann Utne
+  * Lea Balle Vorsaa 
+  * Malte Emil Wechter 
+  * Riasat Abbas
+  * Tobias Andersen 
+  * Tobias Nordholm-Højskov 
 
 ## Lectures
 
