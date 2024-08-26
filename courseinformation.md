@@ -109,11 +109,37 @@ Exercise clases will mainly have a focus on smaller exercises that prepare you f
  * Mondays 15:15-17:00
  * Wednesdays 13:15-15:00
 
-See [skema.ku.dk](https://skema.ku.dk/tt/tt.asp?SDB=KU2425&language=DK&folder=Reporting&style=textspreadsheet&type=module&idtype=id&id=125310&weeks=6-16&days=1-5&periods=1-68&width=0&height=0&template=SWSCUST2+module+textspreadsheet) for Block 1 room details.
+ Please disregard the location stated at skema.ku.dk or in the myUCPH app. Please refer to the plan below:
 
-<!-- See [skema.ku.dk](https://skema.ku.dk/tt/tt.asp?SDB=KU2324&language=DK&folder=Reporting&style=textspreadsheet&type=module&idtype=id&id=118371&weeks=17-27&days=1-5&periods=1-68&width=0&height=0&template=SWSCUST2+module+textspreadsheet) for Block 2 room details.
+<!--See [skema.ku.dk](https://skema.ku.dk/tt/tt.asp?SDB=KU2425&language=DK&folder=Reporting&style=textspreadsheet&type=module&idtype=id&id=125310&weeks=6-16&days=1-5&periods=1-68&width=0&height=0&template=SWSCUST2+module+textspreadsheet) for Block 1 room details.
+
  -->
 #### Block 1
+  * Class 1: Benjamin
+    * Monday: NBB 2.3.I.164
+    * Wednesday: NBB 2.3.I.164
+  * Class 2: Christian and Riasat
+    * Monday: Biocenter 4-0-02
+    * Wednesday: DIKU 1-0-34
+  * Class 3: Emil
+    * Monday: NBB 2.3.H.142
+    * Wednesday: NBB 2.2.I.158
+  * Class 4: Jóhann
+    * Monday: Biocenter 4-0-02 - Sharing room with Christian and Riasat
+    * Wednesday: DIKU 1-0-22 
+  * Class 5: Lea and Tobias A
+    * Monday: NBB 2.1.H.142 and NBB 2.0.G.064/070 (if needed)
+    * Wednesday: NBB 2.1.H.142
+  * Class 6: Malte
+    * Monday: NBB 2.0.G.064/070
+    * Wednedsay: NBB 2.2.H.142
+  * Class 7: Tobias NH
+    * Monday: NBB 2.0.G.064/070
+    * Wednesday: NBB 2.3.H.142
+
+
+Make sure that you and your study group joins a class in the Absalon Course Room -> People -> Class
+
 
 <!--  * Class 1: Axel
    * Monday: NBB 2.1.H.142
@@ -137,7 +163,11 @@ See [skema.ku.dk](https://skema.ku.dk/tt/tt.asp?SDB=KU2425&language=DK&folder=Re
    * Tuesday 15-17: DIKU 3-0-25
    * Friday 10-12: DIKU 1-0-37 -->
 
+
+
+
 #### Block 2
+TBA
 
 <!--  * Class 1: Axel
    * Monday: NBB 2.1.H.142
@@ -173,7 +203,7 @@ https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/
 
 
 ## Cafées (expected times)
-Cafées will be manned with either 2 or 3 TAs. 
+Cafées will be manned with either 2, 3 or 4 TAs. 
 
  * Wednesdays 15:15-17:00
    * This sessions have a café structure and are dedicated to help with assignments and other open questions.
@@ -183,6 +213,7 @@ Cafées will be manned with either 2 or 3 TAs.
 ### Rooms
 
 #### Block 1
+TBA
 <!-- Wednesday: 
   * Kanapsalen, NEXS, Nørre Alle 53
   * Auditorium Syd, NEXS, Nørre Alle 51 -- Only in weeks with assignment deadlines.
@@ -205,6 +236,7 @@ Wednesday:
   * HCØ A104 -->
 
 #### Block 2
+TBA
 <!-- Wednesday: 
   * NBB 2.0.G.064/070
   * NBB 2.2.H.142 -- Only in weeks with assignment deadlines.
