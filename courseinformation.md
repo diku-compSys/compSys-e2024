@@ -95,26 +95,23 @@ Other help:
 ## Lectures
 
 ### Block 1
-<!--  * Mondays at 13:15-15:00 in AKB Aud1
- * Wednesdays at 10:15-12:00 in HCØ Aud1
- -->
+ * Mondays at 13:15-15:00 in DIKU, Store UP1
+ * Wednesdays at 10:15-12:00 in DIKU, Store UP1
 
-### Block 2
+<!-- ### Block 2 -->
 <!--  * Mondays at 13:15-15:00 in HCØ Aud1
  * Wednesdays at 10:15-12:00 in AKB Aud1
  -->
 
 ## Exercise Classes
-Exercises will mainly.
+Exercise clases will mainly have a focus on smaller exercises that prepare you for the tasks in the assignments and the exam. 
 
-<!--  * Mondays 15:15-17:00
-   * These classes are dedicated to exercises and not making assignments.
+ * Mondays 15:15-17:00
  * Wednesdays 13:15-15:00
-   * These classes are dedicated to exercises and not making assignments.
 
-See [skema.ku.dk](https://skema.ku.dk/tt/tt.asp?SDB=KU2324&language=DK&folder=Reporting&style=textspreadsheet&type=module&idtype=id&id=118371&weeks=6-16&days=1-5&periods=1-68&width=0&height=0&template=SWSCUST2+module+textspreadsheet) for Block 1 room details.
+See [skema.ku.dk](https://skema.ku.dk/tt/tt.asp?SDB=KU2425&language=DK&folder=Reporting&style=textspreadsheet&type=module&idtype=id&id=125310&weeks=6-16&days=1-5&periods=1-68&width=0&height=0&template=SWSCUST2+module+textspreadsheet) for Block 1 room details.
 
-See [skema.ku.dk](https://skema.ku.dk/tt/tt.asp?SDB=KU2324&language=DK&folder=Reporting&style=textspreadsheet&type=module&idtype=id&id=118371&weeks=17-27&days=1-5&periods=1-68&width=0&height=0&template=SWSCUST2+module+textspreadsheet) for Block 2 room details.
+<!-- See [skema.ku.dk](https://skema.ku.dk/tt/tt.asp?SDB=KU2324&language=DK&folder=Reporting&style=textspreadsheet&type=module&idtype=id&id=118371&weeks=17-27&days=1-5&periods=1-68&width=0&height=0&template=SWSCUST2+module+textspreadsheet) for Block 2 room details.
  -->
 #### Block 1
 
