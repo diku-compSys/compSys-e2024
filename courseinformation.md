@@ -1,4 +1,4 @@
-# Course Description for Computer Systems 2023/24
+# Course Description for Computer Systems 2024/25
 
 CompSys is giving a general introduction to computer systems. You will learn how computers works at a basic but fundamental level, how this reflects to the programs that you write, and understand the performance characteristic for these. We will cover topics from Machine architecture, Operating Systems, Computer Networks, and basic IT-Security. We will also introduce you to the C programming language, which will be used throughout the course.
 
