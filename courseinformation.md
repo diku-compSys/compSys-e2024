@@ -141,31 +141,6 @@ Exercise clases will mainly have a focus on smaller exercises that prepare you f
 Make sure that you and your study group joins a class in the Absalon Course Room -> People -> Class
 
 
-<!--  * Class 1: Axel
-   * Monday: NBB 2.1.H.142
-   * Wednesday: HCØ A101
- * Class 2: Christian
-   * Monday: NBB 2.1.I.156
-   * Wednesday: HCØ A102
- * Class 3: Jakob
-   * Monday: NBB 2.0.G.064/070
-   * Wednesday: HCØ A105
- * Class 4: Utne
-   * Monday: NBB 2.0.G.064/070
-   * Wednesday: HCØ A106
- * Class 5: Lucas
-   * Monday: NBB 2.2.H.142
-   * Wednesday: HCØ A107
- * Class 6: Lars
-   * Monday: NBB 2.2.I.158
-   * Wednesday: HCØ A111
- * Class 7: Kjartan
-   * Tuesday 15-17: DIKU 3-0-25
-   * Friday 10-12: DIKU 1-0-37 -->
-
-
-
-
 #### Block 2
 TBA
 
@@ -213,7 +188,20 @@ Cafées will be manned with either 2, 3 or 4 TAs.
 ### Rooms
 
 #### Block 1
-TBA
+In the overflow you are welcome to sit and work. You can come to the other rooms to ask for help.
+
+Wednesday: 
+  * NBB 2.2.H.142
+  * NBB 2.3.H.142
+  * NBB 2.1.H.142 -- Only manned in weeks with assignment deadlines; otherwise overflow room.
+  * NBB 2.3.I.164 -- Overflow room.
+
+Friday: 
+    * DIKU 1-0-14 -- Overflow room.
+    * DIKU 1-0-26 -- Only manned in weeks with assignment deadlines; otherwise overflow room.
+    * DIKU 1-0-30
+    * DIKU 1-0-37
+
 <!-- Wednesday: 
   * Kanapsalen, NEXS, Nørre Alle 53
   * Auditorium Syd, NEXS, Nørre Alle 51 -- Only in weeks with assignment deadlines.
