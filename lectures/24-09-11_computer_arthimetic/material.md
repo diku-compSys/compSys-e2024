@@ -1,4 +1,4 @@
-# Floating Point Arithmetic
+# Recordings
 
 ## Background
 
@@ -18,3 +18,6 @@
 
 [Float Properties](https://sid.erda.dk/share_redirect/BFJysbpvtM)
 
+# Reading
+
+Computer Organization and Design, Chapters 3.1-3.3, 3.5

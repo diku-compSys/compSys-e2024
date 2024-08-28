@@ -1,4 +1,4 @@
-# Assembly
+# Recordings
 
 ## Machine Execution
 
@@ -22,3 +22,7 @@
 
 [Loops](https://sid.erda.dk/share_redirect/H2cbxQDYKq)
 
+# Reading
+
+Computer Organization and Design, Chapters 2.1-2.4, 2.6-2.7 
+Modern C, Chapter 4

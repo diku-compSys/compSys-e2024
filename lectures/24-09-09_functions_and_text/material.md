@@ -1,4 +1,4 @@
-# Functions
+# Recordings
 
 ## Procedures and the Machine Level
 
@@ -10,7 +10,7 @@
 
 ## Data Representation
 
-[shpwBytes](https://sid.erda.dk/share_redirect/bwHvfTUm4I)
+[showBytes](https://sid.erda.dk/share_redirect/bwHvfTUm4I)
 
 [A Machine View of Text](https://sid.erda.dk/share_redirect/AEggCq6DJE)
 
@@ -18,3 +18,7 @@
 
 [Reading Files](https://sid.erda.dk/share_redirect/Be2kCRF4xV)
 
+# Reading
+
+Computer Organization and Design, Chapters 2.8-2.9 
+Modern C, Chapters 5-7
