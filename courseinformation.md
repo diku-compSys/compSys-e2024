@@ -191,10 +191,10 @@ Cafées will be manned with either 2, 3 or 4 TAs.
 In the overflow you are welcome to sit and work. You can come to the other rooms to ask for help.
 
 Wednesday: 
-  * NBB 2.2.H.142
+  * NBB 2.3.I.164
   * NBB 2.3.H.142
-  * NBB 2.1.H.142 -- Only manned in weeks with assignment deadlines; otherwise overflow room.
-  * NBB 2.3.I.164 -- Overflow room.
+  * NBB 2.2.H.142 -- Only manned in weeks with assignment deadlines; otherwise overflow room.
+  * NBB 2.1.H.142 -- Overflow room
 
 Friday: 
     * DIKU 1-0-14 -- Overflow room.
