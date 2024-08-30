@@ -197,10 +197,10 @@ Wednesday:
   * NBB 2.1.H.142 -- Overflow room
 
 Friday: 
-  * DIKU 1-0-14 -- Overflow room.
-  * DIKU 1-0-26 -- Only manned in weeks with assignment deadlines; otherwise overflow room.
   * DIKU 1-0-30
   * DIKU 1-0-37
+  * DIKU 1-0-26 -- Only manned in weeks with assignment deadlines; otherwise overflow room.
+  * DIKU 1-0-14 -- Overflow room.
 
 <!-- Wednesday: 
   * Kanapsalen, NEXS, Nørre Alle 53
