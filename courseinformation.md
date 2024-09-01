@@ -1,4 +1,4 @@
-# Course Description for Computer Systems 2023/24
+# Course Description for Computer Systems 2024/25
 
 CompSys is giving a general introduction to computer systems. You will learn how computers works at a basic but fundamental level, how this reflects to the programs that you write, and understand the performance characteristic for these. We will cover topics from Machine architecture, Operating Systems, Computer Networks, and basic IT-Security. We will also introduce you to the C programming language, which will be used throughout the course.
 
@@ -109,35 +109,40 @@ Exercise clases will mainly have a focus on smaller exercises that prepare you f
  * Mondays 15:15-17:00
  * Wednesdays 13:15-15:00
 
-See [skema.ku.dk](https://skema.ku.dk/tt/tt.asp?SDB=KU2425&language=DK&folder=Reporting&style=textspreadsheet&type=module&idtype=id&id=125310&weeks=6-16&days=1-5&periods=1-68&width=0&height=0&template=SWSCUST2+module+textspreadsheet) for Block 1 room details.
+ Please disregard the location stated at skema.ku.dk or in the myUCPH app. Please refer to the plan below:
 
-<!-- See [skema.ku.dk](https://skema.ku.dk/tt/tt.asp?SDB=KU2324&language=DK&folder=Reporting&style=textspreadsheet&type=module&idtype=id&id=118371&weeks=17-27&days=1-5&periods=1-68&width=0&height=0&template=SWSCUST2+module+textspreadsheet) for Block 2 room details.
+<!--See [skema.ku.dk](https://skema.ku.dk/tt/tt.asp?SDB=KU2425&language=DK&folder=Reporting&style=textspreadsheet&type=module&idtype=id&id=125310&weeks=6-16&days=1-5&periods=1-68&width=0&height=0&template=SWSCUST2+module+textspreadsheet) for Block 1 room details.
+
  -->
 #### Block 1
+  * Class 1: Benjamin
+    * Monday: NBB 2.3.I.164
+    * Wednesday: NBB 2.3.I.164
+  * Class 2: Christian and Riasat
+    * Monday: Biocenter 4-0-02
+    * Wednesday: DIKU 1-0-34
+  * Class 3: Emil
+    * Monday: NBB 2.3.H.142
+    * Wednesday: NBB 2.2.I.158
+  * Class 4: Jóhann
+    * Monday: Biocenter 4-0-02 - Sharing room with Christian and Riasat
+    * Wednesday: DIKU 1-0-22 
+  * Class 5: Lea and Tobias A
+    * Monday: NBB 2.1.H.142 and NBB 2.0.G.064/070 (if needed)
+    * Wednesday: NBB 2.1.H.142
+  * Class 6: Malte
+    * Monday: NBB 2.0.G.064/070
+    * Wednedsay: NBB 2.2.H.142
+  * Class 7: Tobias NH
+    * Monday: NBB 2.0.G.064/070
+    * Wednesday: NBB 2.3.H.142
 
-<!--  * Class 1: Axel
-   * Monday: NBB 2.1.H.142
-   * Wednesday: HCØ A101
- * Class 2: Christian
-   * Monday: NBB 2.1.I.156
-   * Wednesday: HCØ A102
- * Class 3: Jakob
-   * Monday: NBB 2.0.G.064/070
-   * Wednesday: HCØ A105
- * Class 4: Utne
-   * Monday: NBB 2.0.G.064/070
-   * Wednesday: HCØ A106
- * Class 5: Lucas
-   * Monday: NBB 2.2.H.142
-   * Wednesday: HCØ A107
- * Class 6: Lars
-   * Monday: NBB 2.2.I.158
-   * Wednesday: HCØ A111
- * Class 7: Kjartan
-   * Tuesday 15-17: DIKU 3-0-25
-   * Friday 10-12: DIKU 1-0-37 -->
+
+Make sure that you and your study group joins a class in the Absalon Course Room -> People -> Class
+
 
 #### Block 2
+TBA
 
 <!--  * Class 1: Axel
    * Monday: NBB 2.1.H.142
@@ -173,7 +178,7 @@ https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/
 
 
 ## Cafées (expected times)
-Cafées will be manned with either 2 or 3 TAs. 
+Cafées will be manned with either 2, 3 or 4 TAs. 
 
  * Wednesdays 15:15-17:00
    * This sessions have a café structure and are dedicated to help with assignments and other open questions.
@@ -183,6 +188,20 @@ Cafées will be manned with either 2 or 3 TAs.
 ### Rooms
 
 #### Block 1
+In the overflow you are welcome to sit and work. You can come to the other rooms to ask for help.
+
+Wednesday: 
+  * NBB 2.3.I.164
+  * NBB 2.3.H.142
+  * NBB 2.2.H.142 -- Only manned in weeks with assignment deadlines; otherwise overflow room.
+  * NBB 2.1.H.142 -- Overflow room
+
+Friday: 
+  * DIKU 1-0-30
+  * DIKU 1-0-37
+  * DIKU 1-0-26 -- Only manned in weeks with assignment deadlines; otherwise overflow room.
+  * DIKU 1-0-14 -- Overflow room.
+
 <!-- Wednesday: 
   * Kanapsalen, NEXS, Nørre Alle 53
   * Auditorium Syd, NEXS, Nørre Alle 51 -- Only in weeks with assignment deadlines.
@@ -205,6 +224,7 @@ Wednesday:
   * HCØ A104 -->
 
 #### Block 2
+TBA
 <!-- Wednesday: 
   * NBB 2.0.G.064/070
   * NBB 2.2.H.142 -- Only in weeks with assignment deadlines.

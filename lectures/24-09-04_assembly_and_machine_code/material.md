@@ -1,5 +1,7 @@
 # Recordings
 
+[All Recordings](https://sid.erda.dk/sharelink/ABEHaFz6Sy)
+
 ## Machine Execution
 
 [Computer Architectures](https://sid.erda.dk/share_redirect/gx1lzgy9bK)

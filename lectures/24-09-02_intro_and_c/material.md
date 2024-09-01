@@ -1,5 +1,7 @@
 # Recordings
 
+[All Recordings](https://sid.erda.dk/sharelink/DNlPESuIMY)
+
 ## Flipped Classroom
 
 [An introduction to Flipped Classroom](https://sid.erda.dk/share_redirect/dEUbnvrBoM)
