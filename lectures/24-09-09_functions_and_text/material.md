@@ -24,3 +24,7 @@
 
 Computer Organization and Design, Chapters 2.8-2.9 
 Modern C, Chapters 5-7
+
+# Quiz 
+
+https://absalon.ku.dk/courses/77613/quizzes/100819

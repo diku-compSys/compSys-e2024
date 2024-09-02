@@ -23,3 +23,7 @@
 # Reading
 
 Computer Organization and Design, Chapters 3.1-3.3, 3.5
+
+# Quiz 
+
+https://absalon.ku.dk/courses/77613/quizzes/100820
