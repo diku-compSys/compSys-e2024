@@ -39,7 +39,7 @@
 |      | 11 Dec | Arc   | Finn     | Avanceret Mikroarkitektur II                                                  | [note](https://github.com/diku-compSys/compSys-e2023-pub/blob/main/resources/Afviklingsplot/plot.md) |
 |      |        |       |          | Hand-in A5 -- Simulation af en maskine                                        |  |
 | 51   | 16 Dec | Arc   | Finn     | Opsamling. Maskinnær optimering. A6                                           | TBD |
-|      | 18 Dec |       |          | Christmas lecture: ......                                                     |         |
+|      | 18 Dec |       |          | Christmas lecture: Anton Folkmann, Netcompany + Perhaps Quantum Computers     |         |
 | 52   |        |       |          | Christmas vacation - No lectures                                              |         |
 | 53   |        |       |          | Christmas vacation - No lectures                                              |         |
 | 1    |        |       |          | Hand-in A6 -- Maskinnær optimering                                            |         |
