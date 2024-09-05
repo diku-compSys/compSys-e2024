@@ -8,7 +8,7 @@ GDB has many, many functionalites and utilities, enough to have its own course, 
 ## Installing
 If you use linux for windows, or linux, it is easy, just use the command `apt-get install gdb" and everything should work.
 
-If youre using MAC, you might need to use homebrew, please follow this [guide](https://ics.uci.edu/~pattis/common/handouts/macmingweclipse/allexperimental/mac-gdb-install.html).
+If youre using MAC, you might need to use homebrew, please follow this [guide](https://ics.uci.edu/~pattis/common/handouts/macmingweclipse/allexperimental/mac-gdb-install.html). However, installing gdb on macOS can be quite tricky, espcially due to incompatible with the new ARM-architechtures (used by M1 and M2 macs). Instead, we recomend using lldb, which almost works exactly like gdb. The [lldb-documentation](https://lldb.llvm.org/use/map.html) even provides a mapping between commands in gdb and LLDB.
 
 If you are using windows, please install linux for windows, and see linux. To do this please refer to the tools section
 
