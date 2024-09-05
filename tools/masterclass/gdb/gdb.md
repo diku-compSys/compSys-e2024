@@ -2,7 +2,7 @@
 GDB is a tool, that can help with debugging programs. It can save you, creating multiple print statements such as
  ```(printf("we get here \n"))``` , ```(printf("we get here 2 \n"))```, etc.
 
-GDB has many, many functionalites and utilities, enough to have its own course, but here we will only sratch the surface, with the basic functionalites, such as setting breakpoints, and printing variables and values
+GDB has many, many functionalites and utilities, enough to have its own course, but here we will only scratch the surface, with the basic functionalites, such as setting breakpoints, and printing variables and values
 
 
 ## Installing
@@ -27,6 +27,8 @@ use gdb on the debug program and run it, see what the result is, and if there is
 To examine the program, we can ask gdb to stop the execution of the program at certain points, these are called break points.
 
 To set a break point you simply use the `break n` or `b n` for short, with n being the line number
+
+Use `info del` and `del <num>` to see and delete breakpoints.
 
 <span style="color:red;">EXERCISE:</span>
 Set a couple break points where it makes sense in the debug program, you can use the comments in the .c file as inspiration.
