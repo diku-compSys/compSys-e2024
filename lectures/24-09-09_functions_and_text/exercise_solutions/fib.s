@@ -22,7 +22,7 @@ fib:
         sw a0, 0(sp) 
         lw a0, 4(sp)
         
-        # int y = fib(a0 - 1)
+        # int y = fib(a0 - 2)
         addi a0, a0, -2
         jal ra, fib
         lw t0, 0(sp)
