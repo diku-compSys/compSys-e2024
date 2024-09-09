@@ -36,7 +36,7 @@ the result in `a0`.
 ### Array equality
 
 The following C function is a simplified version of the standard C
-function ``memcmp``:
+function ``memeq``:
 
 ```C
 int memeq(unsigned char *p1, unsigned char *p2, int n) {
@@ -62,7 +62,7 @@ The following C function is a simplified version of the standard C
 function `memmem`:
 
 ```C
-unsigned char* memfind(unsigned char *haystack, int haystacklen,
+unsigned char* memmem(unsigned char *haystack, int haystacklen,
                        unsigned char *needle, int needlelen) {
   for (int i = 0; i < haystacklen-needlelen; i++) {
     if (memeq(haystack+i,needle,needlelen)) {

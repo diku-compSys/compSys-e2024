@@ -15,12 +15,12 @@ If you really want a real `gcc`, the easiest way is the following:
   brew install gcc
   brew install binutils
   ```
-To set `gcc` as the compiler to be used, the easiest way is to set `CC=gcc-13`in your `makefile` (In this case assuming you have installed gcc version 13). 
-You should also be able to run the real `gcc` with `gcc-13`
+To set `gcc` as the compiler to be used, the easiest way is to set `CC=gcc-14`in your `makefile` (In this case assuming you have installed gcc version 14). 
+You should also be able to run the real `gcc` with `gcc-14`
 
-If the above does not work, or you still want to link `gcc` to the newly installed `gcc-13`, you should create a symbolic link between the location where `gcc-13` has been installed and the `gcc` terminal command. To do this run:
+If the above does not work, or you still want to link `gcc` to the newly installed `gcc-14`, you should create a symbolic link between the location where `gcc-14` has been installed and the `gcc` terminal command. To do this run:
 ```
-sudo ln -s $(which gcc-13) /usr/local/bin/gcc
+sudo ln -s $(which gcc-14) /usr/local/bin/gcc
 ```
 Restart your terminal.
 Running `gcc --version` should now print gcc and not clang.
