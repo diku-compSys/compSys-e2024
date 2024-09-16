@@ -30,11 +30,14 @@ int exc3() {
 
 int exc4() {
     int x, y;
-    int* arr[2];
-    arr[0] = &x;
-    arr[1] = arr[0];
-    *(arr[1]) = 1;
-    *(arr[0]) = *(arr[0]) - 1;
+    int* arr[3];
+    arr[0] = &y;
+    *arr[0] = 1;
+    arr[y] = &x;
+    arr[2] = arr[y];
+    *(arr[2]) = 1;
+    *(arr[1]) = *(arr[2]) - 1;
+    return x;
 }
 
 
