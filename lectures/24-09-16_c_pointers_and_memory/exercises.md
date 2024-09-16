@@ -24,10 +24,11 @@ variable `x` is 0.
     p = &_____;
     **pp = _____;
 
+(For the next 2 exercises no & is given, and you need to figure out yourselves where to put them)
 ### 3.
 
     int x, y;
-    int *p = &_____;
+    int *p = _____;
     p = _____;
     *p = 0;
     p = _____;
