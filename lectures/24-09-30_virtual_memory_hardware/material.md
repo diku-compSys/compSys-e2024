@@ -12,6 +12,8 @@
 
 [Memory Management](https://sid.erda.dk/share_redirect/hpuuJbRclT)
 
+[Linking and Loading](https://sid.erda.dk/share_redirect/Fqp1H4bjbh)
+
 [Memory Protection](https://sid.erda.dk/share_redirect/bUH6yI0Vgq)
 
 ## Examples
