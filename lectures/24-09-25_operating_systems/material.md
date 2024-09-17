@@ -1,6 +1,6 @@
 # Recordings
 
-[All Recordings](https://sid.erda.dk/share_redirect/g6vQpF6Tt3)
+[All Recordings](https://sid.erda.dk/sharelink/g6vQpF6Tt3)
 
 ## Background
 

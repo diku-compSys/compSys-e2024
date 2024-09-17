@@ -1,6 +1,6 @@
 # Recordings
 
-[All Recordings](https://sid.erda.dk/share_redirect/EydXUp3Q6g)
+[All Recordings](https://sid.erda.dk/sharelink/EydXUp3Q6g)
 
 ## Virtual Memory
 

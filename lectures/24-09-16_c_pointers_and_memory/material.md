@@ -1,6 +1,6 @@
 # Recordings
 
-[All Recordings](https://sid.erda.dk/share_redirect/C3qGQAhZbd)
+[All Recordings](https://sid.erda.dk/sharelink/C3qGQAhZbd)
 
 ## Data Representation
 

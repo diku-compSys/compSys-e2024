@@ -1,6 +1,6 @@
 # Recordings
 
-[All Recordings](https://sid.erda.dk/share_redirect/f5yJfyw8hk)
+[All Recordings](https://sid.erda.dk/sharelink/f5yJfyw8hk)
 
 ## Allocation
 

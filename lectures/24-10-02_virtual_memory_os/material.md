@@ -1,6 +1,6 @@
 # Recordings
 
-[All Recordings](https://sid.erda.dk/share_redirect/HmziebsZol)
+[All Recordings](https://sid.erda.dk/sharelink/HmziebsZol)
 
 ## Address Translation Example
 

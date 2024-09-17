@@ -13,6 +13,6 @@ int main(void) {
   for (int i = 0; i < 5; i++) {
     printf("i: %d, p: %p\n", i, (void*)p);
     printf("i: %d, *p: %d\n", i, *p);
-    p = p + 2; // implicit * sizeof(int)
+    p = p + 1; // implicit * sizeof(int)
   }
 }

@@ -1,6 +1,6 @@
 # Recordings
 
-[All Recordings](https://sid.erda.dk/share_redirect/GGHyc4aDhl)
+[All Recordings](https://sid.erda.dk/sharelink/GGHyc4aDhl)
 
 ## Locality
 
