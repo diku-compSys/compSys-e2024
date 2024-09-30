@@ -1,0 +1,48 @@
+-- registers mean
+ZERO                                ; always set to zero
+R0: -                               ; working register
+R1: -                               ; working register
+R2: -                               ; working register
+
+RTOTAL:                             ; total of all elements
+RCOUNT:                             ; number of elements
+RMEAN:                              ; mean
+
+-- memory pointers
+list: [11, 12, 13, 14, 15, 16]      ; list of elements
+n: 6                                ; number of elements
+
+-- code mean
+add R0 ZERO ZERO                    ; Clear working registers
+add R1 ZERO ZERO                    ; 
+lw RCOUNT n(0)                      ; get the expected number of elements 
+mult R2 RCOUNT 4                    ; get expected total memory
+MEAN_LOOP:                      
+    lw R0 list(R1)                  ; load the next element
+    add RTOTAL RTOTAL R0            ; add to total
+    add R1 R1 4                     ; update pointer
+    beq R1 R2 MEAN_END              ; if we've got all elements go to end
+    jal ZERO MEAN_LOOP              ; otherwise get next loop
+MEAN_END:
+    div RMEAN RTOTAL RCOUNT         ; Calculate mean
+
+-- registers std deviation
+R3: -                               ; working register
+R4: -                               ; working register
+RVARIANCE: -                        ; list variance
+RSTDDEV: -                          ; std deviation
+
+-- code std deviation
+add R1 ZERO ZERO                    ; Reset element counter
+add R4 ZERO ZERO                    ; Setup working register
+STD_DEV_LOOP:
+    lw R0 list(R1)                  ; load the next element    
+    sub R3 R0 RMEAN                 ; get each elements deviation
+    mul R0 R3 R3
+    add R4 R4 R0                    ; add it to the running total
+    add R1 R1 4                     ; update pointer
+    beq R1 R2 STD_DEV_END           ; if we've got all elements go to end
+    jal ZERO STD_DEV_LOOP           ; otherwise get next loop
+STD_DEV_END:
+    div RVARIANCE R4 RCOUNT         ; get variance
+    div RSTDDEV RVARIANCE RVARIANCE ; get std deviation

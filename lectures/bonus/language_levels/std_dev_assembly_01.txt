@@ -1,0 +1,67 @@
+-- registers mean
+ZERO                            ; always set to zero
+R0: 11                          ; first element
+R1: 12                          ; second element
+R2: 13                          ; third element
+R3: 14                          ; fourth element
+R4: 15                          ; fifth element
+R5: 16                          ; sixth element
+R6: -                           ; working register
+RCOUNT:                         ; number of elements
+RMEAN:                          ; mean
+
+-- code mean
+add R0 11 ZERO                  ; Setup Registers
+add R1 12 ZERO
+add R2 13 ZERO
+add R3 14 ZERO
+add R4 15 ZERO
+add R5 16 ZERO
+add R6 ZERO ZERO
+add RCOUNT ZERO ZERO
+add R6 R6 R0                    ; Add up each number    
+add RCOUNT RCOUNT 1             ; Count number of numbers
+add R6 R6 R1
+add RCOUNT RCOUNT 1
+add R6 R6 R2
+add RCOUNT RCOUNT 1
+add R6 R6 R3
+add RCOUNT RCOUNT 1
+add R6 R6 R4
+add RCOUNT RCOUNT 1
+add R6 R6 R5
+add RCOUNT RCOUNT 1
+div RMEAN R6 RCOUNT             ; Calculate mean
+
+-- registers std deviation
+R7: -                           ; deviation of the first element
+R8: -                           ; deviation of the second element
+R9: -                           ; deviation of the third element
+R10: -                          ; deviation of the fourth element
+R11: -                          ; deviation of the fifth element
+R12: -                          ; deviation of the sixth element
+RVARIANCE: -                    ; list variance
+RSTDDEV: -                      ; std deviation
+
+-- code std deviation
+sub R6 R0 RMEAN                 ; get each elements deviation
+mul R7 R6 R6
+sub R6 R1 RMEAN
+mul R8 R6 R6
+sub R6 R2 RMEAN
+mul R9 R6 R6
+sub R6 R3 RMEAN
+mul R10 R6 R6
+sub R6 R4 RMEAN
+mul R11 R6 R6
+sub R6 R5 RMEAN
+mul R12 R6 R6
+add R6 ZERO ZERO                ; reset working register
+add R6 R6 R7                    ; total all deviations
+add R6 R6 R8
+add R6 R6 R9
+add R6 R6 R10
+add R6 R6 R11
+add R6 R6 R12
+div RVARIANCE R6 RCOUNT         ; get variance
+div RSTDDEV RVARIANCE RVARIANCE ; get std deviation
