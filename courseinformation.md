@@ -132,7 +132,7 @@ Exercise clases will mainly have a focus on smaller exercises that prepare you f
     * Wednesday: NBB 2.1.H.142
   * Class 6: Malte
     * Monday: NBB 2.0.G.064/070
-    * Wednedsay: NBB 2.2.H.142
+    * Wednesday: NBB 2.2.H.142
   * Class 7: Tobias NH
     * Monday: NBB 2.0.G.064/070
     * Wednesday: NBB 2.3.H.142
@@ -243,7 +243,6 @@ Online on Absalon or Discord.
 ## Assignment (The following can change slightly...)
 
 There are 7 assignment in total during the course with deadline roughly every second week with the following deadlines.
-
 
 | Topic                             | Expected deadline   |
 | --------------------------------- | ------------------- |
