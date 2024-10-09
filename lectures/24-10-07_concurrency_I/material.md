@@ -40,4 +40,5 @@
 
 # Reading
 
-Operating Systems: Three Easy Pieces, Chapters 13 and 17
+Computer Organization and Design Chapters 6.1-6.2, 6.4-6.5
+Operating Systems: Three Easy Pieces, Chapter 27

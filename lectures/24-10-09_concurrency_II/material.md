@@ -19,4 +19,4 @@
 
 # Reading
 
-Operating Systems: Three Easy Pieces, Chapters 13 and 17
+Operating Systems: Three Easy Pieces, Chapters 29 and 30
