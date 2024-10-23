@@ -11,6 +11,8 @@ You can then start a client to connect to that server with:
 
 Note that both will run forver, with the client waiting for you to type in some text, which will be sent to the server.
 
+(NOTE: If you have trouble running the server, try removing "SO_REUSEPORT" at line 50 in echoserver.c)
+
 ### Ping/pong
 Modify the server so that if it recieves a `ping` message, it replies with a `pong`. In all other cases the server returns `BAD REQUEST`.
 
