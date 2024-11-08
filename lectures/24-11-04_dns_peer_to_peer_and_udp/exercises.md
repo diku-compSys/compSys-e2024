@@ -19,7 +19,7 @@ Each peer should be able to send and receive messages simultaneously, enabling b
 1. Implement the sending() function to allow peers to send messages to other peers using their port numbers.
 2. Implement the receiving() function to handle incoming messages from other peers.
 
-**Limitation**
+**Limitation**  <br>
 The program requires the user to know the port numbers of other users on the same localhost beforehand. 
 
 **Simultaneous send and receive** <br>
