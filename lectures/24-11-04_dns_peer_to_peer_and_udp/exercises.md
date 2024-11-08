@@ -11,14 +11,19 @@
 Use the C functions getaddrinfo (https://man7.org/linux/man-pages/man3/gai_strerror.3.html) and (https://man7.org/linux/man-pages/man3/inet_ntop.3.html) to create a program that takes a human readable address such as 'www.google.com', converts it into an appropriate IP address, and prints it to the user.
 
 ## Peer to peer program in C
-This program involves a peer which can send and receive simultaneously, created using Socket programming in C. Multiple instances of the code can be run in seperate terminal environments to form a peer to peer chat network.
+In this exercise, you will complete the implementation of a peer-to-peer chat program using TCP sockets in C. The provided code already includes the structure and setup for creating and binding sockets, starting a listening server, and running a separate thread to handle incoming messages.
 
-**Limitations**
-1. The program requires the user to know the port numbers of other users on the same localhost beforehand. 
-2. The program is just a demonstration of TCP/IP Socket programming in C.
+Each peer should be able to send and receive messages simultaneously, enabling basic chat functionality. Multiple instances of the program should be able to run in separate terminal windows to form a peer-to-peer network.
+
+**What you need to do:**
+1. Implement the sending() function to allow peers to send messages to other peers using their port numbers.
+2. Implement the receiving() function to handle incoming messages from other peers.
+
+**Limitation**
+The program requires the user to know the port numbers of other users on the same localhost beforehand. 
 
 **Simultaneous send and receive** <br>
-The program achieves simultaneous send and receive by running the receive method on seperate thread. The program involves the use of **select()** system call to identify the ready file descriptors and loop over them to receive the messages in queue. However, this simultaneous send and receive is not refined and may interrupt the user while sending the message. 
+The program achieves simultaneous send and receive functionality by creating a dedicated thread to handle incoming messages. Each peer listens for connections while allowing the user to send messages in parallel.
 
 **Running instructions** <br>
 The program can be executed on a Linux system using gcc compiler.
