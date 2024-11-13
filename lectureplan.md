@@ -28,7 +28,7 @@
 |      | 06 Nov | CN    | David    | Transport layer: Principles of Reliable Data Transfer + TCP                   | KR 3.1 - 3.7 |
 | 46   |        |       |          | Re-exam week - No lectures                                                    |          |
 |      |        |       |          | Hand-in A3  -- Simple client, performance, buffering                          |          |
-| 47   | 18 Nov | CN    | David    | Server Performance                                                            | BOH 12.5-12.7 (Optional read - BOH 8.5-8.7) |
+| 47   | 18 Nov | CN    | David    | Avoiding Deadlock                                                             | BOH 12.5-12.7 (Optional read - BOH 8.5-8.7) |
 |      | 20 Nov | Arc   | Finn     | Et minimalt riscv setup                                                       | slides, TBD |
 | 48   | 25 Nov | Arc   | Finn     | Digital logik                                                                 | COD A.1 - A.3, A.5, A7 - A.9, [NandGame](https://nandgame.com/)
 |      | 27 Nov | Arc   | Finn     | En simpel maskine                                                             | COD 4.1 - 4.4 |
