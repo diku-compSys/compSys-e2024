@@ -29,16 +29,16 @@
 | 46   |        |       |          | Re-exam week - No lectures                                                    |          |
 |      |        |       |          | Hand-in A3  -- Simple client, performance, buffering                          |          |
 | 47   | 18 Nov | CN    | David    | Avoiding Deadlock                                                             | BOH 12.5-12.7 (Optional read - BOH 8.5-8.7) |
-|      | 20 Nov | Arc   | Finn     | Et minimalt riscv setup                                                       | slides, TBD |
-| 48   | 25 Nov | Arc   | Finn     | Digital logik                                                                 | COD A.1 - A.3, A.5, A7 - A.9, [NandGame](https://nandgame.com/)
+|      | 20 Nov | Arc   | Finn     | C til Assembler - Et minimalt riscv setup                                     | slides, TBD |
+| 48   | 25 Nov | Arc   | Finn     | RISCV Maskinsprog                                                             | RISCV 2.2 - 2.6 + 6 [RISCV](https://riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf) og lille note om afkodning |
 |      | 27 Nov | Arc   | Finn     | En simpel maskine                                                             | COD 4.1 - 4.4 |
 |      |        |       |          | Hand-in A4 -- Threaded Server/application, multi-threaded performance         |  |
-| 49   | 02 Dec | Arc   | Finn     | A5 - Simulation af en maskine. Riscv afkodning                                | RISCV 2.2 - 2.6 + 6 [RISCV](https://riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf) og lille note om afkodning |
+| 49   | 02 Dec | Arc   | Finn     | A5 handout. Digital logik                                                     | COD A.1 - A.3, A.5, A7 - A.9, [NandGame](https://nandgame.com/)
 |      | 04 Dec | Arc   | Finn     | Into til Mikroarkitektur: Pipelining og ydeevne                               | COD 4.6 - 4.9 |
 | 50   | 09 Dec | Arc   | Finn     | Avanceret Mikroarkitektur I                                                   | COD 4.11 + [note](https://github.com/diku-compSys/compSys-e2023-pub/blob/main/resources/Afviklingsplot/plot.md) |
 |      | 11 Dec | Arc   | Finn     | Avanceret Mikroarkitektur II                                                  | [note](https://github.com/diku-compSys/compSys-e2023-pub/blob/main/resources/Afviklingsplot/plot.md) |
-|      |        |       |          | Hand-in A5 -- Simulation af en maskine                                        |  |
-| 51   | 16 Dec | Arc   | Finn     | Opsamling. Maskinnær optimering. A6                                           | TBD |
+|      |        |       |          | Hand-in A5                                                                    |  |
+| 51   | 16 Dec | Arc   | Finn     | Opsamling. Maskinnær optimering. A6 handout                                   | TBD |
 |      | 18 Dec |       |          | Christmas lecture: Anton Folkmann, Netcompany + Perhaps Quantum Computers     |         |
 | 52   |        |       |          | Christmas vacation - No lectures                                              |         |
 | 53   |        |       |          | Christmas vacation - No lectures                                              |         |
