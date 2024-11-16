@@ -30,7 +30,7 @@
 |      |        |       |          | Hand-in A3  -- Simple client, performance, buffering                          |          |
 | 47   | 18 Nov | CN    | David    | Avoiding Deadlock                                                             | BOH 12.5-12.7 (Optional read - BOH 8.5-8.7) |
 |      | 20 Nov | Arc   | Finn     | C til Assembler - Et minimalt riscv setup                                     | slides, TBD |
-| 48   | 25 Nov | Arc   | Finn     | RISCV Maskinsprog                                                             | RISCV 2.2 - 2.6 + 6 [RISCV](https://riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf) og lille note om afkodning |
+| 48   | 25 Nov | Arc   | Finn     | RISCV Maskinsprog                                                             | RISCV 1 + 2 + 6 [RISCV](file:///home/finn/Downloads/unpriv-isa-asciidoc.pdf) og lille note om afkodning |
 |      | 27 Nov | Arc   | Finn     | En simpel maskine                                                             | COD 4.1 - 4.4 |
 |      |        |       |          | Hand-in A4 -- Threaded Server/application, multi-threaded performance         |  |
 | 49   | 02 Dec | Arc   | Finn     | A5 handout. Digital logik                                                     | COD A.1 - A.3, A.5, A7 - A.9, [NandGame](https://nandgame.com/)
