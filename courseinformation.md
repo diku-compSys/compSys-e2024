@@ -98,10 +98,14 @@ Other help:
  * Mondays at 13:15-15:00 in DIKU, Store UP1
  * Wednesdays at 10:15-12:00 in DIKU, Store UP1
 
-<!-- ### Block 2 -->
-<!--  * Mondays at 13:15-15:00 in HCØ Aud1
- * Wednesdays at 10:15-12:00 in AKB Aud1
- -->
+### Block 2; weeks 47+48
+ * Mondays at 13:15-15:00 in HCØ Aud5
+ * Wednesdays at 10:15-12:00 in NBB 2.0.G.064/070
+
+### Block 2; weeks 49 - 51 + 2
+ * Mondays at 13:15-15:00 in DIKU, Store UP1
+ * Wednesdays at 10:15-12:00 in DIKU, Store UP1
+
 
 ## Exercise Classes
 Exercise clases will mainly have a focus on smaller exercises that prepare you for the tasks in the assignments and the exam. 
