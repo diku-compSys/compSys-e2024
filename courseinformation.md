@@ -169,12 +169,6 @@ Make sure that you and your study group joins a class in the Absalon Course Room
    * Tuesday 13-15: Biocenter 4-0-02
    * Wednesday: Biocenter 4-0-02
 
-Exercises 13:00 15:00 47-51, 2  øv - 4-0-02, Ole Maaløes Vej 5, Biocenter Hold 07; Hold 06;
-Exercises 13:00 15:00 47-51, 2  aud - NBB 2.0.G.064/070, Jagtvej 155  Hold 01; Hold 05; Hold 04;
-Exercises 13:00 15:00 47-51, 2  øv - NBB 2.3.I.164, Jagtvej 155 Hold 03;
-Exercises 13:00 15:00 47-51, 2  øv - NBB 2.3.H.142, Jagtvej 155 Hold 02;
-
-
 ### Room details
 Map of Nørre Campus:
 https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/
