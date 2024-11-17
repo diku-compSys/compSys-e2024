@@ -98,10 +98,14 @@ Other help:
  * Mondays at 13:15-15:00 in DIKU, Store UP1
  * Wednesdays at 10:15-12:00 in DIKU, Store UP1
 
-<!-- ### Block 2 -->
-<!--  * Mondays at 13:15-15:00 in HCØ Aud1
- * Wednesdays at 10:15-12:00 in AKB Aud1
- -->
+### Block 2; weeks 47+48
+ * Mondays at 13:15-15:00 in HCØ Aud5
+ * Wednesdays at 10:15-12:00 in NBB 2.0.G.064/070
+
+### Block 2; weeks 49 - 51 + 2
+ * Mondays at 13:15-15:00 in DIKU, Store UP1
+ * Wednesdays at 10:15-12:00 in DIKU, Store UP1
+
 
 ## Exercise Classes
 Exercise clases will mainly have a focus on smaller exercises that prepare you for the tasks in the assignments and the exam. 
@@ -142,29 +146,28 @@ Make sure that you and your study group joins a class in the Absalon Course Room
 
 
 #### Block 2
-TBA
 
-<!--  * Class 1: Axel
-   * Monday: NBB 2.1.H.142
-   * Wednesday: NBB 2.1.H.142
- * Class 2: Christian
-   * Monday: NBB 2.1.I.156
-   * Wednesday: NBB 2.1.I.156
- * Class 3: Jakob
+ * Class 1: Benjamin
    * Monday: NBB 2.0.G.064/070
    * Wednesday: NBB 2.0.G.064/070
- * Class 4: Kjartan
-   * Monday: NBB 2.0.G.064/070
-   * Wednesday: NBB 2.0.G.064/070
- * Class 5: Lucas
+ * Class 2: Christian and Riasat
    * Monday: NBB 2.3.H.142
    * Wednesday: NBB 2.3.H.142
- * Class 6: Lars
-   * Monday: NBB 2.2.H.142
-   * Wednesday: NBB 2.2.H.142
- * Class 7: Utne
-   * Tuesday 13-15: NBB 2.1.I.156
-   * Friday 8-10: NBB 2.1.I.156 -->
+ * Class 3: Emil
+   * Monday: NBB 2.3.I.164
+   * Wednesday: NBB 2.3.I.164
+ * Class 4: Jóhann
+   * Monday: NBB 2.0.G.064/070
+   * Wednesday: NBB 2.0.G.064/070
+ * Class 5: Lea and Tobias A
+   * Monday: NBB 2.0.G.064/070
+   * Wednesday: NBB 2.0.G.064/070
+ * Class 6: Malte
+   * Monday: Biocenter 4-0-02
+   * Wednesday: Biocenter 4-0-02
+ * Class 7: Tobias NH
+   * Tuesday 13-15: Biocenter 4-0-02
+   * Wednesday: Biocenter 4-0-02
 
 ### Room details
 Map of Nørre Campus:
@@ -201,27 +204,6 @@ Friday:
   * DIKU 1-0-37
   * DIKU 1-0-26 -- Only manned in weeks with assignment deadlines; otherwise overflow room.
   * DIKU 1-0-14 -- Overflow room.
-
-<!-- Wednesday: 
-  * Kanapsalen, NEXS, Nørre Alle 53
-  * Auditorium Syd, NEXS, Nørre Alle 51 -- Only in weeks with assignment deadlines.
-
-Friday: 
-  * DIKU 1-0-10
-  * DIKU 1-0-14
-  * DIKU 1-0-18 -- Overflow room in weeks without assignment deadlines.
-  * DIKU 1-0-22 -- Overflow room.
-
-#### Week 46
-Wednesday:
-  * HCØ A101
-  * HCØ A102
-  * HCØ A103
-
-  Friday: 
-  * HCØ A102
-  * HCØ A103
-  * HCØ A104 -->
 
 #### Block 2
 TBA
