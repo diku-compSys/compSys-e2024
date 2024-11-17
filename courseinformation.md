@@ -147,25 +147,25 @@ Make sure that you and your study group joins a class in the Absalon Course Room
 
 #### Block 2
 
- * Class 1: Axel
+ * Class 1: Benjamin
    * Monday: NBB 2.0.G.064/070
    * Wednesday: NBB 2.0.G.064/070
- * Class 2: Christian
+ * Class 2: Christian and Riasat
    * Monday: NBB 2.3.H.142
    * Wednesday: NBB 2.3.H.142
- * Class 3: Jakob
+ * Class 3: Emil
    * Monday: NBB 2.3.I.164
    * Wednesday: NBB 2.3.I.164
- * Class 4: Kjartan
+ * Class 4: Jóhann
    * Monday: NBB 2.0.G.064/070
    * Wednesday: NBB 2.0.G.064/070
- * Class 5: Lucas
+ * Class 5: Lea and Tobias A
    * Monday: NBB 2.0.G.064/070
    * Wednesday: NBB 2.0.G.064/070
- * Class 6: Lars
+ * Class 6: Malte
    * Monday: Biocenter 4-0-02
    * Wednesday: Biocenter 4-0-02
- * Class 7: Utne
+ * Class 7: Tobias NH
    * Tuesday 13-15: Biocenter 4-0-02
    * Wednesday: Biocenter 4-0-02
 
