@@ -29,6 +29,8 @@
 
 Signals are not queeed so it will only be counted if the parent process is available. communication between parent and child is not guarenteed to be stable. 
 for stable communication threads can be used.
+In reality this is indeterministic and the counter can take different values, it just so happens that 2 is the most common in this case.
+Try changing or removing the sleep in handle, and see how the counter takes different values between runs. 
 
 ### Q3
 
