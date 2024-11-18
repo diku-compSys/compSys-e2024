@@ -29,8 +29,8 @@
 | 46   |        |       |          | Re-exam week - No lectures                                                    |          |
 |      |        |       |          | Hand-in A3  -- Simple client, performance, buffering                          |          |
 | 47   | 18 Nov | CN    | David    | Avoiding Deadlock                                                             | BOH 12.5-12.7 (Optional read - BOH 8.5-8.7) |
-|      | 20 Nov | Arc   | Finn     | C til Assembler - Et minimalt riscv setup                                     | slides, TBD |
-| 48   | 25 Nov | Arc   | Finn     | RISCV Maskinsprog                                                             | RISCV 1 + 2 + 6 [RISCV](https://github.com/riscv/riscv-isa-manual/releases/download/20240411/unpriv-isa-asciidoc.pdf) og lille note om afkodning |
+|      | 20 Nov | Arc   | Finn     | C til Assembler - Et minimalt riscv setup                                     | review material for lectures 4/9 + 9/9, slides will be available after lecture |
+| 48   | 25 Nov | Arc   | Finn     | RISCV Maskinsprog                                                             | as above. Also get some familiarity/overview of ch 1,2 and 13 of [RISCV](https://github.com/riscv/riscv-isa-manual/releases/download/20240411/unpriv-isa-asciidoc.pdf) |
 |      | 27 Nov | Arc   | Finn     | En simpel maskine                                                             | COD 4.1 - 4.4 |
 |      |        |       |          | Hand-in A4 -- Threaded Server/application, multi-threaded performance         |  |
 | 49   | 02 Dec | Arc   | Finn     | A5 handout. Digital logik                                                     | COD A.1 - A.3, A.5, A7 - A.9, [NandGame](https://nandgame.com/)
