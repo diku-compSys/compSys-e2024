@@ -156,18 +156,18 @@ Make sure that you and your study group joins a class in the Absalon Course Room
  * Class 3: Emil
    * Monday: NBB 2.3.I.164
    * Wednesday: NBB 2.3.I.164
- * Class 4: Jóhann
+ * Class 4: Lea
    * Monday: NBB 2.0.G.064/070
    * Wednesday: NBB 2.0.G.064/070
- * Class 5: Lea and Tobias A
+ * Class 5: Tobias A
    * Monday: NBB 2.0.G.064/070
    * Wednesday: NBB 2.0.G.064/070
  * Class 6: Malte
-   * Monday: Biocenter 4-0-02
-   * Wednesday: Biocenter 4-0-02
+   * Monday: NBB 2.3.H.142
+   * Wednesday: NBB 2.3.H.142
  * Class 7: Tobias NH
-   * Monday: Biocenter 4-0-02
-   * Wednesday: Biocenter 4-0-02
+   * Monday: NBB 2.3.I.164
+   * Wednesday: NBB 2.3.I.164
 
 ### Room details
 Map of Nørre Campus:
