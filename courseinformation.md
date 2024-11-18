@@ -166,7 +166,7 @@ Make sure that you and your study group joins a class in the Absalon Course Room
    * Monday: Biocenter 4-0-02
    * Wednesday: Biocenter 4-0-02
  * Class 7: Tobias NH
-   * Tuesday 13-15: Biocenter 4-0-02
+   * Monday: Biocenter 4-0-02
    * Wednesday: Biocenter 4-0-02
 
 ### Room details
