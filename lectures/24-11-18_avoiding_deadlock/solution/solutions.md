@@ -27,10 +27,15 @@
 
 ### Q2
 
-Signals are not queeed so it will only be counted if the parent process is available. communication between parent and child is not guarenteed to be stable. 
-for stable communication threads can be used.
-In reality this is indeterministic and the counter can take different values, it just so happens that 2 is the most common in this case.
-Try changing or removing the sleep in handle, and see how the counter takes different values between runs. 
+Signals are not queued for standard UNIX signals, so only one additional signal can be remembered while a process is handling a signal.   
+So if a process is busy handling a signal, and another signal gets sendt. The extra signal will be remembered, but any more signals, will get coalesced/ignored.  
+
+In reality this is indeterministic and the counter can take different values, it just so happens that 2 is the most common in this case, due to the timing.  
+Communication between parent and child using signals is not guarenteed to be stable.  
+For stable communication threads can be used.   
+
+Try changing or removing the sleep in handle, and see how the counter takes different values between runs. Or try adding a sleep in the child for loop. 
+
 
 ### Q3
 
