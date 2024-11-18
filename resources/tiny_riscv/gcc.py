@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
 import sys, re, os, mimetypes, argparse, requests, json
+import urllib.request
+import urllib.parse
 
 parser = argparse.ArgumentParser(description='Compiles a C program into a gcc output x86_64.')
 
@@ -11,9 +13,7 @@ flags = {"march": "-march=rv32im",
          "static": "-static",
          "nsf": "-nostartfiles",
          "nstdlib": "-nostdlib",
-         "opt0": "-O0",
-         "opt1": "-O1",
-         "opt2": "-O2"
+         "opt1": "-O1"
         }
 
 for key, value in flags.items():
@@ -45,22 +45,12 @@ DATA = {}
 DATA["flags"] = parsedflags
 
 num = 1
-use_assembler = False
-
 for f in args.files:
   extensions = f.split(".")
   fileextension = extensions[-1]
 
-  if fileextension == 's':
-    use_assembler  = True
-
-
-for f in args.files:
-  extensions = f.split(".")
-  fileextension = extensions[-1]
-
-  if fileextension != "c" and fileextension != 's':
-    print("The input is expected to be a C or Assembly program; fileextension 'c' or 's'.\n")
+  if fileextension != "c":
+    print("The input is expected to be a C program; fileextension 'c'.\n")
     exit()
 
   if not os.path.isfile(f):
@@ -79,25 +69,32 @@ for f in args.files:
 
 # print(args)
 
-# print(DATA)
+  headers = {'Content-Type': 'text/json'}
 
 # x86prime Online location
-URL = "http://topps.di.ku.dk/compsys/gcc-cross.php"
-if use_assembler:
-  URL = "http://topps.di.ku.dk/compsys/asm-cross.php"
-
+URL = "https://topps.di.ku.dk/compsys/gcc-cross.php"
 # defining a params dict for the parameters to be sent to the API
 # DATA = {"filename":args.file, "file":args.fileCont, "march":args.march, "mabi":args.Wextra, "Winline":args.Winline, "pedantic":args.pedantic, "osc":args.osc, "protect":args.protect}
 # sending get request and saving the response as response object
-r = requests.post(url = URL, data = DATA)
 
-URLDIR = "http://topps.di.ku.dk/compsys/gcc_runs/"
-# extracting data in json format
-runid = r.text
+# r = requests.post(url = URL, data = DATA, headers = headers, allow_redirects=True)
 
+url = 'https://httpbin.org/post'
+data = urllib.parse.urlencode(DATA).encode()
+
+req = urllib.request.Request(URL, data=data)
+response = urllib.request.urlopen(req)
+
+# Output:
+# The server's response to your POST request
+
+runid = response.read().decode()
 # print(runid)
 
+URLDIR = "https://topps.di.ku.dk/compsys/gcc_runs/"
 error = requests.get(url = URLDIR+runid+".error")
+
+# print(error.text)
 
 if args.output == None:
   outname = args.files[0][:-2] + ".elf"
