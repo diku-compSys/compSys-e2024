@@ -206,17 +206,23 @@ Friday:
   * DIKU 1-0-14 -- Overflow room.
 
 #### Block 2
-TBA
-<!-- Wednesday: 
-  * NBB 2.0.G.064/070
+
+Wednesday (expect Week 48):
+  * NBB 2.3.H.142
+  * NBB 2.3.I.164
   * NBB 2.2.H.142 -- Only in weeks with assignment deadlines.
-  * NBB 2.3.H.142 -- Overflow room.
+
+Wednesday (Week 48, only):
+  * NBB 2.0.G.064/070
+  * NBB 2.2.H.142
 
 Friday: 
-  * HCØ A101
-  * HCØ A102
-  * HCØ A103 -- Only in weeks with assignment deadlines.
- -->
+  * NBB 2.2.H.142
+  * NBB 2.3.H.142
+  * NBB 2.1.H.142 -- Only in weeks with assignment deadlines.
+  * NBB 2.1.I.156 -- Overflow room.
+
+
 
 ## Study group formation
 Online on Absalon or Discord.
