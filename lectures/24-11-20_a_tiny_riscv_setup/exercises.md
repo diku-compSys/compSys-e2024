@@ -53,11 +53,19 @@ generated code. Alternately write it again.
 among them "-O1" - this yields a program that is reasonably fast while also
 typically being relatively readable. By changing the option you can get
 no optimization (-O0) or more optimization (-O2). Try generating riscv assembler
-for each of these 3 optimization levels. Compare them against each other. Which is more readable? We can expect -O2 to be faster then the others. But how much
+for each of these 3 optimization levels. Compare them against each other. 
+Which is more readable? We can expect -O2 to be faster then the others. But how much
 (guess) ?
 
+5. Try to understand the minimal library in "lib.c"
 
-[The riscv simulator is needed for the next exercises, but it is not working yet. It should work on 20/11]
+Perhaps break it up and ask chatgpt to explain the fragments one by one.
+Be critical.
+
+
+--------------------------
+
+The riscv simulator is needed for the next exercises, but it is not working yet. It should be working Monday
 
 
 6. Use the riscv simulator.
@@ -70,19 +78,13 @@ instructions it takes to run each variant with the same input.
 Check the source code in fib.c to discover how it gets its input.
 
 
-7. Try to understand the minimal library in "lib.c"
-
-Perhaps break it up and ask chatgpt to explain the fragments one by one.
-Be critical.
-
-
-8. Write your own C program
+7. Write your own C program
 
 Try to use some of the facilities, for example input/output.
 Note that there is no standard library. Only the functions defined in "lib.h"
 is available.
 
-Take a look at hello.c, fib.c or echo.c for inspiration.
+Take a look at hello.c, fib.c, erat.c or echo.c for inspiration.
 
 If you're really ambitious, try to build something which uses the dynamic memory
 management as well (allocate/release).
