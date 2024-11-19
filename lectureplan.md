@@ -45,7 +45,7 @@
 | 1    |        |       |          | Hand-in A6 -- Maskinnær optimering                                            |         |
 | 2    | 06 Jan | CN    | Michael  | Network layer, data plane                                                     | KR 4.1 - 4.2.4, 4.3 (Optional read - [Design Philosophy of DARPA Internet Protocols](http://www.cs.princeton.edu/courses/archive/spr14/cos461/papers/clark88.pdf)) |
 |      | 06 Jan | CN    | Michael  | Network layer, control plane                                                  | KR 5.1 - 5.3, KR 6.1 - 6.4.3, KR 8.5 - 8.6 |
-|      | 08 Jan | CN    | Jakob  | Security Across the Network 10:15-12:00 AKB Aud 01                            | KR 8.1 - 8.7 |
+|      | 08 Jan | CN    | Jakob  | Security Across the Network                            | KR 8.1 - 8.7 |
 |      | 08 Jan | Recap | TAs      |                                               |  |
 |      | 08 Jan | Recap | TAs      |                                             |  |
 |      | 10 Jan | Recap | TAs      |                                                |  |
