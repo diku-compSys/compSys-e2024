@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
 import sys, re, os, mimetypes, argparse, requests, json
+import urllib.request
+import urllib.parse
 
 parser = argparse.ArgumentParser(description='Dumps a riscv elf file to stdout.')
 
@@ -33,6 +35,8 @@ for key, value in flags.items():
 DATA = {}
 DATA["flags"] = parsedflags
 
+print(parsedflags)
+
 num = 1
 for f in args.files:
   extensions = f.split(".")
@@ -58,20 +62,33 @@ for f in args.files:
 
 # print(args)
 
+headers = { 'Content-Type': 'text/json'}
 # print(DATA)
 
 # x86prime Online location
-URL = "http://topps.diku.dk/compsys/objdump-cross.php"
+URL = "https://topps.di.ku.dk/compsys/objdump-cross.php"
 # defining a params dict for the parameters to be sent to the API
 # DATA = {"filename":args.file, "file":args.fileCont, "march":args.march, "mabi":args.Wextra, "Winline":args.Winline, "pedantic":args.pedantic, "osc":args.osc, "protect":args.protect}
 # sending get request and saving the response as response object
-r = requests.post(url = URL, data = DATA)
+# r = requests.post(url = URL, data = DATA, headers = headers, allow_redirects=True)
+url = 'https://httpbin.org/post'
+data = urllib.parse.urlencode(DATA).encode()
 
-URLDIR = "http://topps.diku.dk/compsys/gcc_runs/"
+# URLDIR = "http://topps.di.ku.dk/compsys/gcc_runs/"
 # extracting data in json format
-runid = r.text
-
+# runid = r.text
 # print(runid)
+
+req = urllib.request.Request(URL, data=data)
+response = urllib.request.urlopen(req)
+ 
+# Output:
+# The server's response to your POST request
+ 
+runid = response.read().decode()
+
+URLDIR = "https://topps.di.ku.dk/compsys/gcc_runs/"
+
 
 error = requests.get(url = URLDIR+runid+".error")
 
