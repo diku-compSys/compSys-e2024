@@ -13,9 +13,9 @@ flags = {"march": "-march=rv32im",
          "static": "-static",
          "nsf": "-nostartfiles",
          "nstdlib": "-nostdlib",
-         "opt0": "-O0"
-         "opt1": "-O1"
-         "opt2": "-O2"
+         "opt0": "-O0",
+         "opt1": "-O1",
+         "opt2": "-O2",
          "opt3": "-O3"
         }
 
