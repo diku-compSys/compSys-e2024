@@ -52,30 +52,36 @@ for f in args.files:
   extensions = f.split(".")
   fileextension = extensions[-1]
 
-  if fileextension != "c":
-    print("The input is expected to be a C program; fileextension 'c'.\n")
-    exit()
-
   if not os.path.isfile(f):
     print("Input file does not exist: "+f+"\n")
     exit()
 
-  os.system("cat "+f+" | cpp > "+f+"_cpp")
+  if fileextension == "c":
+    # Do preproccessing on client side:
+    os.system("cat "+f+" | cpp > "+f+"_cpp")
+    file = open(f+"_cpp", 'r')
+    URL = "https://topps.di.ku.dk/compsys/gcc-cross.php"
 
-  file = open(f+"_cpp", 'r')
+  elif fileextension == "s":
+
+    file = open(f, 'r')
+    URL = "https://topps.di.ku.dk/compsys/gcc-cross2.php"
+
+  else:
+    print("The input is expected to be a C program; fileextension 'c'.\n")
+    exit()
+
   DATA["filename"+str(num)] = f
   DATA["filecont"+str(num)] = file.read()
   file.close()
-
-  os.system("rm "+f+"_cpp")
+  if fileextension == "c":
+    os.system("rm "+f+"_cpp")
   num = num + 1
 
 # print(args)
 
   headers = {'Content-Type': 'text/json'}
 
-# x86prime Online location
-URL = "https://topps.di.ku.dk/compsys/gcc-cross.php"
 # defining a params dict for the parameters to be sent to the API
 # DATA = {"filename":args.file, "file":args.fileCont, "march":args.march, "mabi":args.Wextra, "Winline":args.Winline, "pedantic":args.pedantic, "osc":args.osc, "protect":args.protect}
 # sending get request and saving the response as response object
