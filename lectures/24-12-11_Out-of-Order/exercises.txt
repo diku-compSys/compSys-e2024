@@ -1,0 +1,50 @@
+# Øvelser til 11. december
+
+## Tidligere øvelser
+
+Lav først eventuelle overskydende øvelser fra sidste øvelsesgang
+
+## Fungerende krydsoversætter?
+
+Har du på nuværende tidspunkt adgang til en fungerende krydsoversætter?
+
+Helst via servicen på DIKU (og vores fantastiske python scripts).
+Ellers som en lokal installation.
+
+Du kan få brug for den fra på mandag.
+
+Hvis du ikke har en eller adgang til en bør du NU skrive på DISCORD så vi kan hjælpe med
+at få et overblik og løse problemer før weekenden.
+
+## Opgave 1
+
+Opstil en risc-v kodesekvens:
+
+ * hvor en load der følger efter en store tilgår samme adresse og derfor skal "se" data fra store instruktionen
+ * hvor store data endnu ikke er tilgængelig i store-køen på det tidspunkt, hvor load instruktionen skal bruge det
+
+diskuter/opstil/giv en mere præcis definition af det sidste af disse to krav.
+
+
+## Opgave 2
+
+### Spg 1
+
+Opstil en risc-v kodesekvens:
+
+ * hvor en load der følger efter en store tilgår samme adresse og derfor skal "se" data fra store instruktionen
+ * hvor store addressen endnu ikke er tilgængelig i store-køen på det tidspunkt, hvor load instruktionen har brug
+   for at sammenligne addresser.
+
+diskuter/opstil/giv en mere præcis definition af det sidste af disse to krav.
+
+### Spg 2
+
+Opstil et afviklingsplot som illustrerer ovenstående på en 4-vejs out-of-order mikroarkitektur med en
+cache tilgang pr clock. Diskuter evt hvornår load instruktionen tidligst kan gennemføre et writeback.
+
+### Spg 3
+
+I forlængelse af spg 2. Diskuter hvornår en instruktion som afhænger af load-instruktionen tidligst
+vil kunne begynde udførelse.
+
