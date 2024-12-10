@@ -219,3 +219,10 @@ const char* symbols_value_to_sym(struct symbols* symbols, unsigned int value)
     return NULL;
 }
 
+void symbols_delete(struct symbols* symbols)
+{
+    free(symbols->strtab);
+    free(symbols->symbols);
+    free(symbols);
+}
+
