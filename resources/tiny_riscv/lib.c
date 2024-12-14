@@ -50,6 +50,7 @@ int read_int_buffer(int file, int* buffer, int max_size) {
   asm volatile("  li a7,4" : : : "a7");
   asm volatile("  ecall" : : : "a0");
   asm volatile("  mv %0,a0" : "=r" (retval));
+  return retval;
 }
 
 int write_int_buffer(int file, int* buffer, int size) {
@@ -60,6 +61,7 @@ int write_int_buffer(int file, int* buffer, int size) {
   asm volatile("  li a7,5" : : : "a7");
   asm volatile("  ecall" : : : "a0");
   asm volatile("  mv %0,a0" : "=r" (retval));
+  return retval;
 }
 
 int open_file(char* path, char* flags) {
@@ -69,6 +71,7 @@ int open_file(char* path, char* flags) {
   asm volatile("  li a7,6" : : : "a7");
   asm volatile("  ecall" : : : "a0");
   asm volatile("  mv %0,a0" : "=r" (retval));
+  return retval;
 }
 
 int close_file(int file) {
@@ -77,6 +80,7 @@ int close_file(int file) {
   asm volatile("  li a7,6" : : : "a7");
   asm volatile("  ecall" : : : "a0");
   asm volatile("  mv %0,a0" : "=r" (retval));
+  return retval;
 }
 
 
