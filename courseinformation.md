@@ -228,7 +228,7 @@ Friday:
 Online on Absalon or Discord.
 
 
-## Assignment (The following can change slightly...)
+## Assignment
 
 There are 7 assignment in total during the course with deadline roughly every second week with the following deadlines.
 
@@ -252,16 +252,9 @@ Feedback to assignments will be given by TAs on the course; we try to match with
 We expect the correction of submissions to take about as long as a the submission (either one or two weeks).
 
 ### Hand-in
-The system in Absalon for group hand-ins does not always work as intended; we are therefore working around this. When you hand-in your assignments you are also asked to give a `group.txt` file, that contain the KU-ids of all group members terminated with a line-break; and only this. No names or other messages. The content of `group.txt` could look like:
+We will use the group hand-ins on Absalon.
 
-```
-dlb838
-mdt733
-agy623
-
-```
-
-You should still only make one submission per group; not one for each member. Note, that this means that the submission in Absalon is then only registered with the student doing the hand-in. However, we consider (behind Absalon) all valid KU-ids in the `group.txt`.
+If you need to update any part of your submission on Absalon (e.g. the source code or the report), you must resubmit the entire work. That include the unchanged work. We will only assess the latest submission.
 
 When your TA has corrected your submission all members of the group will be given the evaluation (comments and points). If some of your group members have gotten the evaluation, but you are missing, please, contact the course responsible. This often comes from a missing KU-id in the group.txt file. It is there very important that _your report always contain both names and KU-ids of all group members_, as the report is then used for resolution.
 
