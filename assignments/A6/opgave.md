@@ -1,6 +1,6 @@
-# Maskinnær optimering. Opgave A6, Compsys 2023
+# Maskinnær optimering. Opgave A6, Compsys 2024
 
-Finn Schiermer Andersen, December 2023, foreløbig udgave
+Finn Schiermer Andersen, December 2024, foreløbig udgave
 
 Denne opgave stilles mandag den 16 december og skal afleveres kl 16 søndag den 5. Januar.
 
