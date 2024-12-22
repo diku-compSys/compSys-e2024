@@ -232,15 +232,15 @@ Online on Absalon or Discord.
 
 There are 7 assignment in total during the course with deadline roughly every second week with the following deadlines.
 
-| Topic                             | Expected deadline   |
-| --------------------------------- | ------------------- |
-| A0: File(1) - C introduction      | 22 Sep @ 16:00      |
-| A1: Dynamic memory and caching    | 06 Oct @ 16:00      |
-| A2: Concurrency                   | 27 Oct @ 16:00      |
-| A3: Client network distribution   | 17 Nov @ 16:00      |
-| A4: P2P networking and security   | 01 Dec @ 16:00      |
-| A5: Simple architecture.          | 15 Dec @ 16:00      |
-| A6: Pipelined architecture        | 07 Jan @ 22:00      |
+| Topic                             | Expected deadline      |
+| --------------------------------- | ---------------------- |
+| A0: Quicksort in RISC-V assembly  | Sunday Week 38 @ 16:00 |
+| A1: Dynamic memory and caching    | Sunday Week 40 @ 16:00 |
+| A2: Concurrency                   | Sunday Week 43 @ 16:00 |
+| A3: Client network distribution   | Sunday Week 46 @ 16:00 |
+| A4: P2P networking and security   | Sunday Week 48 @ 16:00 |
+| A5: Simple architecture.          | Sunday Week 50 @ 16:00 |
+| A6: Pipelined architecture        | Sunday Week 01 @ 16:00 |
 
 The assignments will be graded with points from 0 to 4 and it is not possible to re-hand-in any of the assignments.
 
